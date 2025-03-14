@@ -10,8 +10,6 @@ st.set_page_config(
                 "Get Help": "https://www.polimi.it",
                 "Report a bug": "https://www.polimi.it"}
 )
-
-
 st.title("My new :red[Streamlit] app")
 st.header("Welcome to :green[DV4S]!")
 st.subheader("Smile")
